@@ -1,39 +1,86 @@
-<h1 align="center">Hi, I'm Mohamed Arshad<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">A passionate, Versatile Tester, Balancing Manual & Automation</h3>
+<h1 align="center">Hello, I'm Mohamed Arshad<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 align="center">A passionate, Versatile Tester, Balancing AI and Functional Testing</h3>
 <img align="right" alt="coding" width="300" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad821&label=Profile%20views&color=0e75b6&style=flat" alt="arshad821" /> </p>
 
 
-- 🔭 I’m currently working on **Selenium, Cucumber, Hybrid Framework**
+- 🚀 Quality Software Engineer with **4+ years of experience in Test Automation and Quality Software Engineering**
 
-- 🌱 I’m currently learning **Continuous Integration, Framework Designing, API Automation**
+- 🔭 Currently working on **Playwright, GraphQL API Testing, BDD Frameworks, CI/CD Integration**
 
-- 👯 I’m looking to collaborate on **Automation Frameworks, TOSCA**
+- 🌱 Exploring AI-Assisted Testing, GitHub Copilot, Claude Code, Atlassian Rovo AI
 
-- 👨‍💻 All of my projects are available at [@Mohamed_Arshad](https://github.com/arshad821)
+- 🤝 Open to collaborating on Automation Frameworks, API Testing, Quality Engineering Solutions
 
-- 💬 Ask me about **Selenium, Java, Functional Testing, Postman**
+- 💡 Experienced across Retail, Healthcare, Wealth Management, Payments & Airline Domains
 
-- 📫 How to reach me **mohamedarshad0308@gmail.com**
+- 💬 Ask me about **Playwright, Selenium, GraphQL, API Testing, Cucumber BDD, GitLab CI/CD**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-arshad0308](https://www.linkedin.com/in/mohamed-arshad0308)
+- 📫 Reach me **mohamedarshad0308@gmail.com**
 
-- ⚡ Fun fact **Office hero alert: I conquered two billing web apps, cutting manual work by 60%. Basically, I'm the automation guru around here, turning clicks into code laughs! 😂**
-
-
+- 📄 Know about my Expertise [linkedin.com/in/mohamed-arshad0308](https://www.linkedin.com/in/mohamed-arshad0308)
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-arshad0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-arshad0308" height="30" width="40" /></a>
-<a href="https://instagram.com/__a.r.s.h.a.d_______m.ohm.ed__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__a.r.s.h.a.d_______m.ohm.ed__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p align="left">
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</a>
+
+<a href="https://playwright.dev/" target="_blank">
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="45" height="45"/>
+</a>
+
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+</a>
+
+<a href="https://graphql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="45" height="45"/>
+</a>
+
+<a href="https://gitlab.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+</a>
+
+<a href="https://developer.android.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Mobile Testing" width="45" height="45"/>
+</a>
+</p>  
+
+## 🎯 Areas of Expertise
+
+Playwright  • Selenium  • GraphQL  • REST API Testing  • BDD (Cucumber)
+
+GitLab CI/CD  • Quality Engineering  • Shift-Left Testing
+
+Cross-Platform Mobile Testing (Android & iOS)
+
+AI-Assisted Development (GitHub Copilot  • Claude Code  • Rovo AI)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad821" alt="arshad821" /></a> </p>
 
